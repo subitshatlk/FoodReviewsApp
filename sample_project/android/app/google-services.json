@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680741948344",
+    "firebase_url": "https://neetguidance-d2284-default-rtdb.firebaseio.com",
+    "project_id": "neetguidance-d2284",
+    "storage_bucket": "neetguidance-d2284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680741948344:android:1e51c71a873ef6f6f8dd4d",
+        "android_client_info": {
+          "package_name": "com.example.sample_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680741948344-9cpsj8qcurv7kdneka70j85fhbcf6spc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4S3k45-bDzJ4cQ9VBu3I4VxKH6meEU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680741948344-9cpsj8qcurv7kdneka70j85fhbcf6spc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
